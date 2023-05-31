@@ -36,7 +36,7 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 
 ### How'd I stay updated with the latest trends, tools, and libraries in the Android development ecosystem?
 - Major conferences: Google I/O, Android Dev Summit, Kotlin Conf', Droidcon conferences across the world. Watch out for this. They sure will discuss related stuff.
-- Follow top Android Developers on Twitter, and LinkedIn: Harun Wangereka,Ian Lake, Chris Banes<<<Add to the list... I have to put the ones who stand out for me>>> 
+- Follow top Android Developers on Twitter, and LinkedIn: <<<Add to the list... I have to put the ones who stand out for me>>> 
 - Attend developer meetups. Android254 in Kenya. Meetups are a great place to learn and network
 - Listen to Android Podcasts: Android Developers Backstage, [Fragmented Podcast](https://fragmentedpodcast.com)
 - Subscribe to Android newsletters: Android Weekly, Kotlin weekly, effective android. 
@@ -49,12 +49,7 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 
 ### Topics to learn before Applying for the first Job
 
-### What do interviewers look for for an entry job role?
-Software development principles… the fundamentals
-Communication and soft skills
-Problem solving skills
-I've asked Hannah... Waiting for the response.
-
+### What do Interviewers look for in An Android Dev?
 
 ### Resources to learn Compose
 ... Pratical Jetpack Compose
