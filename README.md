@@ -51,7 +51,9 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 
 ### What do Interviewers look for in An Android Dev?
   
-  @misshannah This question
+- Technical strengths: Coding best practices, implementation of Android libraries, test cases coverage.
+  
+- Cultural fitness: Team collaboration, good communication, honest feedback, conflict resolution.
 
 ### Resources to learn Compose
 ... Pratical Jetpack Compose
