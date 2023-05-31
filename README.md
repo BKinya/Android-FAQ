@@ -50,6 +50,8 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 ### Topics to learn before Applying for the first Job
 
 ### What do Interviewers look for in An Android Dev?
+  
+  @misshannah This question
 
 ### Resources to learn Compose
 ... Pratical Jetpack Compose
