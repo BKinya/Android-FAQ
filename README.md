@@ -35,7 +35,7 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 
 ### How'd I stay updated with the latest trends in the Android development ecosystem?
 - Attending major conferences like Google I/O, Android Dev Summit, Kotlin Conf', Droidcon conferences across the world. Updates and new developemnt are announced during the conferences. 
-- Follow top Android Developers on Twitter, and LinkedIn. <<List top Android developers>>
+- Follow top Android Developers on Twitter, and LinkedIn. // List top Android developers
 - Attend developer meetups. Check out [Android254](https://twitter.com/254androiddevs), [Kotlin Kenya](https://twitter.com/kotlinkenya) if in Nairobi, Kenya
 - Listen to Android Podcasts. Some of my favourites are  [Android Developers Backstage](http://adbackstage.libsyn.com), [Fragmented Podcast](https://fragmentedpodcast.com)
 - Subscribe to Android newsletters: Android Weekly, Kotlin weekly, effective android. 
