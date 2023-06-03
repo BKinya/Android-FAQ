@@ -135,9 +135,9 @@ Check the [docs](https://developers.google.com/community/experts) to learn about
 How do I get started? Why? What to write about? How to structure my articles
 
 ### Mentorship and Communities
-Mentorship is a learning relationship between an experienced person and someone who **wants to grow**. With a healthy mentoring relationship, both parties gain, not just the mentee[Growing as a Mobile Engineer](https://www.mobileatscale.com/growing.html).
+Mentorship is a learning relationship between an experienced person and someone who **wants to grow**. With a healthy mentoring relationship, both parties gain, not just the mentee. ~[Growing as a Mobile Engineer](https://www.mobileatscale.com/growing.html).
 
-Mentees. Do not ask, "Will you be my mentor?". If you ask the answer is probably no. So shift your thinking from "If I get a mentor, I'll excel" to "If I excel, I will get a mentor". Mentorship relationships start with a mutual connection -- and mentors often select protégés based on their performance and potential. [Lean In For Graduates](https://www.amazon.com/Lean-Graduates-Chapters-Including-Negotiate/dp/0385353677)
+Mentees. Do not ask, "Will you be my mentor?". If you ask the answer is probably no. So shift your thinking from "If I get a mentor, I'll excel" to "If I excel, I will get a mentor". Mentorship relationships start with a mutual connection -- and mentors often select protégés based on their performance and potential. ~[Lean In For Graduates](https://www.amazon.com/Lean-Graduates-Chapters-Including-Negotiate/dp/0385353677)
 
 Start working on something. Start learning,  working on that project, writing that article etc. You'll find many people willing to guide you along the way. 
 
