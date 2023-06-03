@@ -117,8 +117,8 @@ Check this article for more details: [Typical Hiring Pipeline](https://thetechre
 
 Preparing for interviews makes all the difference difference. So prepare😃. 
 
-### As a beginner in Android development, when do I know it's the right time for me to start applying for a job?
-Varies. But I do not think there is a specific time. You could start applying immediately after Campus, after completing a boot camp.
+### As a beginner, when do I know it's the right time for me to start applying for a job?
+I do not think there is a specific time. You could start applying immediately after Campus, after completing a boot camp.
 
 Nonetheless, prepare for the job search. Build apps to show what you are able to do. Have them on GitHub and/or publish them on Play Store. 
 
