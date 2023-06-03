@@ -6,7 +6,7 @@ Hey Awesome Devs. Thank you for stopping by. This is a collection of frequently 
 
 These are  responses by other amazing Android Developers and from various sources. Use the responses as the guideline to figure out your own story. 
 
-### <a name = "getting-android-role"></a> How do I get my first Android Developer role?(Can this be a paragraph? I hope)
+### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
 - Have some well-documented projects on GitHub which has a Readme and at least one useful app on Playstore.
 - Update your Linkedin profile with the projects you've worked on, relevant achievements,  volunteer experience, and any previous experiences like internships. 
 - Keep your CV updated. You'd build one with LinkedIn Resume Builder
@@ -33,7 +33,7 @@ Check out this podcast: [How to land a job, if you've been laid off or if you ar
 Check out [Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources) put together by [Android Dev Notes](https://twitter.com/androiddevnotes)
 
 
-### How'd I stay updated with the latest trends, tools, and libraries in the Android development ecosystem?
+### How'd I stay updated with the latest trends in the Android development ecosystem?
 - Attending major conferences like Google I/O, Android Dev Summit, Kotlin Conf', Droidcon conferences across the world. Updates and new developemnt are announced during the conferences. 
 - Follow top Android Developers on Twitter, and LinkedIn. <<List top Android developers>>
 - Attend developer meetups. Check out [Android254](https://twitter.com/254androiddevs), [Kotlin Kenya](https://twitter.com/kotlinkenya) if in Nairobi, Kenya
@@ -113,9 +113,9 @@ An Android interview process will vary from one company to another. But the most
     - Mobile system design questions. You are asked to design a mobile app. This mostly focuses on the app architecture. 
     - Behavioral or hiring manager interview
 
-Preparing for interviews makes all the difference difference. So prepare😃. 
+Check this article for more details: [Typical Hiring Pipeline](https://thetechresume.com/samples/the-hiring-pipeline.html#typical-hiring-pipeline)
 
-[Typical Hiring Pipeline](https://thetechresume.com/samples/the-hiring-pipeline.html#typical-hiring-pipeline)
+Preparing for interviews makes all the difference difference. So prepare😃. 
 
 ### As a beginner in Android development, when do I know it's the right time for me to start applying for a job?
 Varies. But I do not think there is a specific time. You could start applying immediately after Campus, after completing a boot camp.
@@ -144,13 +144,14 @@ Start working on something. Start learning,  working on that project, writing th
 For instance, If you get stuck coz of a bug, reach out for help. There are numerous amazing developers in developer communities willing to help you. This is one of the ways to find mentors. 
 
 And Join developer communities. To learn, to network. 
+
 Check out: 
 - [Android254](https://twitter.com/254androiddevs), [Kotlin Kenya](https://twitter.com/kotlinkenya), [Flutter Kenya](https://twitter.com/KenyaFlutterDev), if you are in Nairobi, Kenya
 - [Droid Pwani](https://twitter.com/DroidPwani_KE), An Android Developer for the Coastal region in Kenya. 
 
 
 ### Imposter Syndrome
-Imposter syndrome is real. It happens to the best of us. Remember you still are great.
+Imposter syndrome is real. It happens to the best of us.
 
 Check the following articles to learn more about dealing with imposter syndrome:
 - [What Is Programmer Imposter Syndrome and How Can You Deal With It? | Turing](https://www.turing.com/blog/programmer-imposter-syndrome-tips/)
