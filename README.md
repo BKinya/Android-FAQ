@@ -1,10 +1,12 @@
 # Android-FAQ
 Frequently Asked Android Questions
 
-## Introduction
-Hey Awesome Devs. Thank you for stopping by. This is a collection of frequently asked Android questions. Most of them are not Android specific. They can apply to software developers using other stacks.
+## Introduction. 
+Hey Awesome Devs. Thank you for stopping by. This is a collection of frequently asked Android questions. Most of them are not Android specific. They can apply to software developers using other tracks.
 
-These are  responses by other amazing Android Developers and from various sources. Use the responses as the guideline to figure out your own story. 
+These are  responses by other amazing Android Developers and from various sources. You do not have to follow everything here to the letter. We all have different experiences. Use the responses as the guideline to figure out what works for you, to figure out your own story. 
+
+Cheers! 🥂
 
 ### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
 - Have some well-documented projects on GitHub which has a Readme and at least one useful app on Playstore.
@@ -35,7 +37,7 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 
 ### How'd I stay updated with the latest trends in the Android development ecosystem?
 - Attending major conferences like Google I/O, Android Dev Summit, Kotlin Conf', Droidcon conferences across the world. Updates and new developemnt are announced during the conferences. 
-- Follow top Android Developers on Twitter, and LinkedIn. // List top Android developers
+- Follow top Android Developers on Twitter, and LinkedIn. 
 - Attend developer meetups. Check out [Android254](https://twitter.com/254androiddevs), [Kotlin Kenya](https://twitter.com/kotlinkenya) if in Nairobi, Kenya
 - Listen to Android Podcasts. Some of my favourites are  [Android Developers Backstage](http://adbackstage.libsyn.com), [Fragmented Podcast](https://fragmentedpodcast.com)
 - Subscribe to Android newsletters: Android Weekly, Kotlin weekly, effective android. 
@@ -82,12 +84,12 @@ For beginners, I'd recommend starting with MVVM. It has a gentle learning curve,
 
 For Jetpack Compose projects, I'd recommend an MVI kind of approach. This helps a lot with state handling. And you can implement MVI on top of MVVM. 
 
-### Compose vs XML
+### Should I learn Compose or XML
 Jetpack Compose is the recommended modern UI toolkit for developing native Android UI. With Jetpack Compose, you build the UI faster with less code and using intuitive Kotlin APIs. 
 
 Do you have to know XML to learn to compose? No. For beginners, you could get started with Compose straight away. But XML knowledge is good to have. XML is still dominant in legacy projects. Maintaining such projects requires one to know about XML. 
 
-I'd advise working on some projects using XML then jump to Compose. Knowledge about how Views/XML work will help you appreciate the progress in Android UI development and the benefits of using Jetpack Compose in developing UI.
+I'd advise learning both. You'd working on some projects using XML then jump to Compose. Knowledge about how Views/XML work will help you appreciate the progress in Android UI development and the benefits of using Jetpack Compose in developing UI.
 
 ### Java or Kotlin
 
@@ -102,7 +104,7 @@ Android developers design and develop apps for various Android devices: phones, 
 
 ### What does an Android dev interview process entail, are there DSA or behavioral questions?
 An Android interview process will vary from one company to another. But the most common parts you will encounter include: 
-- Resume screening. 
+- CV/Resume screening. 
 - The recruiter, hiring manager call. This is typically not technical but covers your experience. 
 - Technical Screening. Different companies choose different screening approaches. Some of the options include: 
     - Time boxed code  challenge. This includes likes of Hackerrank or leet code challenges, evaluted by an Engineer or automatically. 
@@ -122,26 +124,35 @@ I do not think there is a specific time. You could start applying immediately af
 
 Nonetheless, prepare for the job search. Build apps to show what you are able to do. Have them on GitHub and/or publish them on Play Store. 
 
-Write content...
-
-Check [how to get an Android Developer role](#getting-android-role) section for more tips.
+Write content, work on projects ... Check [how to get an Android Developer role](#getting-android-role) section for more tips.
  
 ### GDE Questions
 Google Developer Experts is a global community of experienced developers who love to share their knowledge and passion with others.
 
-Check the [docs](https://developers.google.com/community/experts) to learn about the community, who can join and the application process. 
+Check out this [feature with Madona](https://twitter.com/AndroidDev/status/1666133599039500307?s=20) as she shares about her GDE journey. 
+
+Check out the [docs](https://developers.google.com/community/experts) to learn about the community, who can join and the application process. 
+
 
 ### Technical Writing
-How do I get started? Why? What to write about? How to structure my articles
+Technical writing is writing about technology, any writing to provide technical information.
+
+To get started, pick a topic in your area of specialization, for instance Android development, and write about it. It could be something new you learnt, how you fixed a bug, a guide how to a given API in your app among others. 
+
+Check out this article:  [Technical Writing: How Do I Get Better at it](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38) by Harun Wangereka to learn how to get better at it. 
+
+There is no one right way to structure your articles. But always ensure correctness in your articles. Your articles ought to be comprehensive. You mighty not be able to cover everything but try as much as possible to cover important parts of the topic you are writing about. And be concise. 
+
+Great articles are organised for readers to easily follow through. You'd start with general to specific topics, or start from basic to advanced topics. You are telling a story with the article. 
 
 ### Mentorship and Communities
 Mentorship is a learning relationship between an experienced person and someone who **wants to grow**. With a healthy mentoring relationship, both parties gain, not just the mentee. ~[Growing as a Mobile Engineer](https://www.mobileatscale.com/growing.html).
 
-Mentees. Do not ask, "Will you be my mentor?". If you ask the answer is probably no. So shift your thinking from "If I get a mentor, I'll excel" to "If I excel, I will get a mentor". Mentorship relationships start with a mutual connection -- and mentors often select protégés based on their performance and potential. ~[Lean In For Graduates](https://www.amazon.com/Lean-Graduates-Chapters-Including-Negotiate/dp/0385353677)
+Mentees, do not ask, "Will you be my mentor?". If you ask, the answer is probably no. Shift your thinking from "If I get a mentor, I'll excel" to "If I excel, I will get a mentor". Mentorship relationships start with a mutual connection -- and mentors often select protégés based on their performance and potential. ~[Lean In For Graduates](https://www.amazon.com/Lean-Graduates-Chapters-Including-Negotiate/dp/0385353677)
 
-Start working on something. Start learning,  working on that project, writing that article etc. You'll find many people willing to guide you along the way. 
+Start working on something. Start learning,  working on a project, writing that article etc. You'll find many people willing to help you along the way. 
 
-For instance, If you get stuck coz of a bug, reach out for help. There are numerous amazing developers in developer communities willing to help you. This is one of the ways to find mentors. 
+Reach out for help, when you need assistance. For instance, If you get stuck coz of a bug, reach out for help. There are many amazing developers in developer communities willing to help you. This is one of the ways to find mentors. 
 
 And Join developer communities. To learn, to network. 
 
