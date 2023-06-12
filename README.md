@@ -161,9 +161,9 @@ There is no one right way to structure your articles. But always ensure correctn
 Great articles are organised for readers to easily follow through. You'd start with general to specific topics, or start from basic to advanced topics. You are telling a story with the article. 
 
 ### Mentorship and Communities
-Mentorship is a learning relationship between an experienced person and someone who **wants to grow**. With a healthy mentoring relationship, both parties gain, not just the mentee. ~[Growing as a Mobile Engineer](https://www.mobileatscale.com/growing.html).
+Mentorship is a learning relationship between an experienced person and someone who **wants to grow**. With a healthy mentoring relationship, both parties gain, not just the mentee. ~ [Growing as a Mobile Engineer, Gergely Orosz](https://www.mobileatscale.com/growing.html).
 
-Mentees, do not ask, "Will you be my mentor?". If you ask, the answer is probably no. Shift your thinking from "If I get a mentor, I'll excel" to "If I excel, I will get a mentor". Mentorship relationships start with a mutual connection -- and mentors often select protégés based on their performance and potential. ~[Lean In For Graduates](https://www.amazon.com/Lean-Graduates-Chapters-Including-Negotiate/dp/0385353677)
+Mentees, do not ask, "Will you be my mentor?". If you ask, the answer is probably no. Shift your thinking from "If I get a mentor, I'll excel" to "If I excel, I will get a mentor". Mentorship relationships start with a mutual connection -- and mentors often select protégés based on their performance and potential. ~ [Lean In For Graduates, Sheryl Sandberg](https://www.amazon.com/Lean-Graduates-Chapters-Including-Negotiate/dp/0385353677)
 
 Start working on something. Start learning,  working on a project, writing that article etc. You'll find many people willing to help you along the way. 
 
@@ -186,8 +186,8 @@ Check the following articles to learn more about dealing with imposter syndrome:
 ## Contributing
 Contributions are welcome. 
 
-See CONTRIBUTIONS.md to start contributing
+See [CONTRIBUTIONS.md](https://github.com/BKinya/Android-FAQ/blob/main/CONTRIBUTIONS.md) to start contributing.
 
 ## Shout Outs
 Shout out to [Harun Wangereka](https://twitter.com/wangerekaharun) for reviewing this project and 
-[Hannah Olukoye](https://twitter.com/hannah_omu), [Mambo Bryan](https://twitter.com/mambo_bryan), [Breens Robert](https://twitter.com/BreensR), [Joy](https://twitter.com/cestjoie_), [Ayubu Mohamed](https://twitter.com/ayubu_dev) and [Annie Kobia](https://twitter.com/AnnieKobia) for helping with initial questions and responses. 
+[Hannah Olukoye](https://twitter.com/hannah_omu), [Mambo Bryan](https://twitter.com/mambo_bryan), [Breens Robert](https://twitter.com/BreensR), [Joy](https://twitter.com/cestjoie_), [Ayubu Mohamed](https://twitter.com/ayubu_dev) and [Annie Kobia](https://twitter.com/AnnieKobia) for helping with coming up initial questions and responses. 
