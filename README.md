@@ -4,9 +4,16 @@ Frequently Asked Android Questions
 ## Introduction. 
 Hey Awesome Devs. Thank you for stopping by. This is a collection of frequently asked Android questions. Most of them are not Android specific. They can apply to software developers using other tracks.
 
-These are  responses by other amazing Android Developers and from various sources. You do not have to follow everything here to the letter. We all have different experiences. Use the responses as the guideline to figure out what works for you, to figure out your own story. 
+These are responses by other amazing Android Developers and from various sources. You do not have to follow everything here to the letter. We all have different experiences. Use the responses as a guideline to figure out what works for you. 
 
 Cheers! 🥂
+
+### How do I get started in Android Development?
+Android apps are developed using Kotlin, Java and/or C/C++. Android developers use Java or Kotlin to develop Android apps. C/C++ is used to write performance-based and hardware-based features. 
+
+To get started in Android developemnt, you'd learn either Java or Kotlin. Check out [Should I learn Kotlin or Java?](#kotlin-or-java) section to learn more about about the two languages. 
+
+Once you've mastered either of the languages, you are ready to learn Android developement. Check out [Build Your First Android App](https://developer.android.com/training/basics/firstapp) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
 
 ### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
 - Have some well-documented projects on GitHub which has a Readme and at least one useful app on Playstore.
@@ -84,16 +91,24 @@ For beginners, I'd recommend starting with MVVM. It has a gentle learning curve,
 
 For Jetpack Compose projects, I'd recommend an MVI kind of approach. This helps a lot with state handling. And you can implement MVI on top of MVVM. 
 
-### Should I learn Compose or XML
+### Should I learn Compose or XML?
 Jetpack Compose is the recommended modern UI toolkit for developing native Android UI. With Jetpack Compose, you build the UI faster with less code and using intuitive Kotlin APIs. 
 
 Do you have to know XML to learn to compose? No. For beginners, you could get started with Compose straight away. But XML knowledge is good to have. XML is still dominant in legacy projects. Maintaining such projects requires one to know about XML. 
 
 I'd advise learning both. You'd working on some projects using XML then jump to Compose. Knowledge about how Views/XML work will help you appreciate the progress in Android UI development and the benefits of using Jetpack Compose in developing UI.
 
-### Java or Kotlin
+### <a name = "kotlin-or-java"></a>Should I learn Java or Kotlin?
+When Google announced the first version of their Android OS, in 2007, they adopted Java as the main language for Android development.
 
-Kotlin is the first-class language for Android development. New Android development tools and content such as Jetpack libraries and training content are designed in Kotlin. For instance, Jetpack Compose, compiler plugins support, and multiplatform projects. 
+In 2016, JetBrains officially released Kotlin. At Google I/O 2019, Google announced Kotlin as the first-class language for Android development.
+
+Some of the benefits that Kotlin brings to Android development include:
+- Interoperability with Java. You can call Java code from Kotlin, and Kotlin code from Java 
+- Safety. Kotlin gracefully handles common mistakes such as null pointer exceptions.
+- Structured concurrency. Kotlin coroutines simplify background tasks such as network calls.
+ 
+With Kotlin as the first-class language for Android development, new Android development tools and content such as Jetpack libraries and training content are designed in Kotlin. For instance, Jetpack Compose, compiler plugin support, and multiplatform projects. 
 
 Therefore, if you're considering Android Development, I'd encourage learning Kotlin. 
 
