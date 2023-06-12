@@ -183,5 +183,12 @@ Check the following articles to learn more about dealing with imposter syndrome:
 - [What Is Programmer Imposter Syndrome and How Can You Deal With It? | Turing](https://www.turing.com/blog/programmer-imposter-syndrome-tips/)
 - [What Is Programmer Imposter Syndrome and How To Overcome It | Codementor](https://www.codementor.io/blog/imposter-syndrome-deypemtirw)
 
-## Contributors. 
+## Contributing
+Contributions are welcome. 
+
+See CONTRIBUTIONS.md to start contributing
+
+## Shout Outs
+
+##
 
