@@ -189,6 +189,5 @@ Contributions are welcome.
 See CONTRIBUTIONS.md to start contributing
 
 ## Shout Outs
-
-##
-
+Shout out to [Harun Wangereka](https://twitter.com/wangerekaharun) for reviewing this project and 
+[Hannah Olukoye](https://twitter.com/hannah_omu), [Mambo Bryan](https://twitter.com/mambo_bryan), [Breens Robert](https://twitter.com/BreensR), [Joy](https://twitter.com/cestjoie_), [Ayubu Mohamed](https://twitter.com/ayubu_dev) and [Annie Kobia](https://twitter.com/AnnieKobia) for helping with initial questions and responses. 
