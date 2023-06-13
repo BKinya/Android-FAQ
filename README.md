@@ -16,7 +16,7 @@ To get started in Android developemnt, you'd learn either Java or Kotlin. Check 
 Once you've mastered either of the languages, you are ready to learn Android developement. Check out [Build Your First Android App](https://developer.android.com/training/basics/firstapp) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
 
 ### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
-- Have some well-documented projects on GitHub which has a Readme and at least one useful app on Playstore.
+- Have some well-documented projects on GitHub which have detailed Readmes and at least one useful app on Playstore.
 - Update your Linkedin profile with the projects you've worked on, relevant achievements,  volunteer experience, and any previous experiences like internships. 
 - Keep your CV updated. You'd build one with LinkedIn Resume Builder.
 - Set your LinkedIn status to `Open to Network`. 
@@ -46,16 +46,16 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 - Attending major conferences like Google I/O, Android Dev Summit, Kotlin Conf', Droidcon conferences across the world. Updates and new developemnt are announced during the conferences. 
 - Follow top Android Developers on Twitter, and LinkedIn. 
 - Attend developer meetups. Check out [Android254](https://twitter.com/254androiddevs), [Kotlin Kenya](https://twitter.com/kotlinkenya) if in Nairobi, Kenya
-- Listen to Android Podcasts. Some of my favourites are  [Android Developers Backstage](http://adbackstage.libsyn.com), [Fragmented Podcast](https://fragmentedpodcast.com)
-- Subscribe to Android newsletters: Android Weekly, Kotlin weekly, effective android. 
+- Listen to Android Podcasts. Some of my favourites are [Android Developers Backstage](http://adbackstage.libsyn.com), [Fragmented Podcast](https://fragmentedpodcast.com)
+- Subscribe to Android newsletters: [Android Weekly](https://androidweekly.net/), [Kotlin Weekly](http://kotlinweekly.net/), [Effective Android](https://newsletter.jorgecastillo.dev/). 
 - Subscribe  to Android Youtube channels: [Android Developers](https://www.youtube.com/@AndroidDevelopers)
 - Read Documentation.
 - Try new APIs on your projects. You learn more by experimenting.
 
-### What topics do should I learn before applying for my first Android job? 
+### What topics should I learn before applying for my first Android job? 
 For your first role, make sure you master the basics in Android. Some of the things to consider include:
-- Working Kotlin Knowledge
-- Layouts either using XML or Compose
+- Working `Kotlin` Knowledge
+- Layouts either using `XML` or `Compose`
 - Navigation
 - Android SDK and API version
 - Storing data locally in an app
@@ -78,7 +78,7 @@ Compose projects
 - Check for [Jetpack Compose Newsletters](https://twitter.com/alexstyl/status/1662740985456263168?s=20) here. 
 
 ### Which Architecture should I use in my app?
-There exist several architecture patterns: MVP, MVVM, MVI, Redux and much more. Architecture patterns are guidelines for building quality apps. They are not cut-on-stone rules. 
+There exist several architecture patterns: MVP, MVC, MVVM, MVI, Redux and much more. Architecture patterns are guidelines for building quality apps. They are not cut-on-stone rules. 
 
 All best practices can be applied to any architecture pattern. 
 
@@ -132,7 +132,7 @@ An Android interview process will vary from one company to another. But the most
 
 Check this article for more details: [Typical Hiring Pipeline](https://thetechresume.com/samples/the-hiring-pipeline.html#typical-hiring-pipeline)
 
-Preparing for interviews makes all the difference difference. So prepare😃. 
+Preparing for interviews makes all the difference. So prepare 😃. 
 
 ### As a beginner, when do I know it's the right time for me to start applying for a job?
 I do not think there is a specific time. You could start applying immediately after Campus, after completing a boot camp.
@@ -152,7 +152,10 @@ Check out the [docs](https://developers.google.com/community/experts) to learn a
 ### Technical Writing
 Technical writing is writing about technology, any writing to provide technical information.
 
-To get started, pick a topic in your area of specialization, for instance Android development, and write about it. It could be something new you learnt, how you fixed a bug, a guide how to a given API in your app among others. 
+To get started, pick a topic in your area of specialization, for instance Android development, and write about it. It could be :
+- something new you learnt
+- how you fixed a bug
+- a guide on how to use a given API in your app among others...
 
 Check out this article:  [Technical Writing: How Do I Get Better at it](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38) by Harun Wangereka to learn how to get better at technical writing. 
 
