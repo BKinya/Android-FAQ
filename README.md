@@ -2,9 +2,9 @@
 Frequently Asked Android Questions
 
 ## Introduction. 
-Hey Awesome Devs. Thank you for stopping by. This is a collection of frequently asked Android questions. Most of them are not Android specific. They can apply to software developers using other tracks.
+Hey Awesome Devs. Thank you for stopping by. This is a collection of frequently asked Android questions. 
 
-These are responses by other amazing Android Developers and from various sources. You do not have to follow everything here to the letter. We all have different experiences. Use the responses as a guideline to figure out what works for you. 
+These are responses by other amazing Android Engineers. You do not have to follow everything here to the letter. We all have different experiences. Use the responses as a guideline to figure out what works for you. 
 
 Cheers! 🥂
 
@@ -18,16 +18,16 @@ Once you've mastered either of the languages, you are ready to learn Android dev
 ### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
 - Have some well-documented projects on GitHub which has a Readme and at least one useful app on Playstore.
 - Update your Linkedin profile with the projects you've worked on, relevant achievements,  volunteer experience, and any previous experiences like internships. 
-- Keep your CV updated. You'd build one with LinkedIn Resume Builder
+- Keep your CV updated. You'd build one with LinkedIn Resume Builder.
 - Set your LinkedIn status to `Open to Network`. 
 - Directly reach out to recruiters you know or have interacted with. 
 - Check Companies career pages and job boards 
 
 **Tips To increase your chances of landing a Job**
-- Write about the technology you're looking to get a job in. In this, case Android. You'd write about an API you're recently learning about, a bug you solved etc. 
+- Write about the technology you're looking to get a job in. In this case, Android. You'd write about an API you're recently learning about, a bug you solved, etc. 
 - Record a video tutorial showing how to do something in Android. 
 - Contribute to open-source projects. Open-source projects give you an opportunity to learn practically,  practice your skills, and build your confidence.
-- Build an app, while sharing the journey on social media. You'd write an article about the journey or record a video and post it on YouTube.
+- Build an app while sharing the journey on social media. You'd write an article about the journey or record a video and post it on YouTube.
 - Speak at local meet-ups and conferences.
 
 Check out this podcast: [How to land a job, if you've been laid off or if you are just starting out](https://fragmentedpodcast.com/episodes/238)
@@ -154,7 +154,7 @@ Technical writing is writing about technology, any writing to provide technical 
 
 To get started, pick a topic in your area of specialization, for instance Android development, and write about it. It could be something new you learnt, how you fixed a bug, a guide how to a given API in your app among others. 
 
-Check out this article:  [Technical Writing: How Do I Get Better at it](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38) by Harun Wangereka to learn how to get better at it. 
+Check out this article:  [Technical Writing: How Do I Get Better at it](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38) by Harun Wangereka to learn how to get better at technical writing. 
 
 There is no one right way to structure your articles. But always ensure correctness in your articles. Your articles ought to be comprehensive. You mighty not be able to cover everything but try as much as possible to cover important parts of the topic you are writing about. And be concise. 
 
