@@ -122,7 +122,7 @@ An Android interview process will vary from one company to another. But the most
 - CV/Resume screening. 
 - The recruiter, hiring manager call. This is typically not technical but covers your experience. 
 - Technical Screening. Different companies choose different screening approaches. Some of the options include: 
-    - Time boxed code  challenge. This includes likes of Hackerrank or leet code challenges, evaluted by an Engineer or automatically. 
+    - Time-boxed code  challenge. This includes likes of Hackerrank or leet code challenges, evaluted by an Engineer or automatically. 
     - Technical screening call with an Android Engineer. Android concepts are asked. You mighty be asked to pair program with the engineer to write code for a small problem. 
     - Take home assignment
 - On-site interview. This is usually the last stage. It varies from company to company. Some of the activities here include
@@ -144,7 +144,7 @@ Write content, work on projects ... Check [how to get an Android Developer role]
 ### GDE Questions
 Google Developer Experts is a global community of experienced developers who love to share their knowledge and passion with others.
 
-Check out this [feature with Madona](https://twitter.com/AndroidDev/status/1666133599039500307?s=20) as she shares about her GDE journey. 
+Check out [GDE spotlight stories](https://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) highlighting incredible Android GDES. 
 
 Check out the [docs](https://developers.google.com/community/experts) to learn about the community, who can join and the application process. 
 
@@ -152,16 +152,16 @@ Check out the [docs](https://developers.google.com/community/experts) to learn a
 ### Technical Writing
 Technical writing is writing about technology, any writing to provide technical information.
 
-To get started, pick a topic in your area of specialization, for instance Android development, and write about it. It could be :
-- something new you learnt
-- how you fixed a bug
-- a guide on how to use a given API in your app among others...
+To get started, pick a topic in your area of specialization, Android development, and write about it. It could be :
+- something new you learned.
+- how you fixed a bug.
+- a guide on how to use a given API in your app among others.
 
 Check out this article:  [Technical Writing: How Do I Get Better at it](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38) by Harun Wangereka to learn how to get better at technical writing. 
 
 There is no one right way to structure your articles. But always ensure correctness in your articles. Your articles ought to be comprehensive. You mighty not be able to cover everything but try as much as possible to cover important parts of the topic you are writing about. And be concise. 
 
-Great articles are organised for readers to easily follow through. You'd start with general to specific topics, or start from basic to advanced topics. You are telling a story with the article. 
+Great articles are organized for readers to easily follow through. You'd start with general to specific topics, or start from basic to advanced topics. You are telling a story with the article. 
 
 ### Mentorship and Communities
 Mentorship is a learning relationship between an experienced person and someone who **wants to grow**. With a healthy mentoring relationship, both parties gain, not just the mentee. ~ [Growing as a Mobile Engineer, Gergely Orosz](https://www.mobileatscale.com/growing.html).
