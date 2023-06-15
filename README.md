@@ -144,7 +144,7 @@ Write content, work on projects ... Check [how to get an Android Developer role]
 ### GDE Questions
 Google Developer Experts is a global community of experienced developers who love to share their knowledge and passion with others.
 
-Check out [GDE spotlight stories](https://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) highlighting incredible Android GDES. 
+Check out [GDE spotlight stories](https://android-developers.googleblog.com/2023/06/what-it-means-to-be-google-developer-expert-spotlight-stories.html) highlighting incredible Android GDEs. 
 
 Check out the [docs](https://developers.google.com/community/experts) to learn about the community, who can join and the application process. 
 
