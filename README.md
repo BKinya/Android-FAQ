@@ -98,6 +98,8 @@ Do you have to know XML to learn to compose? No. For beginners, you could get st
 
 I'd advise learning both. You'd working on some projects using XML then jump to Compose. Knowledge about how Views/XML work will help you appreciate the progress in Android UI development and the benefits of using Jetpack Compose in developing UI.
 
+Check this [thread](https://twitter.com/askashdavies/status/1699172113339306034?s=20) for more context. 🥂
+
 ### <a name = "kotlin-or-java"></a>Should I learn Java or Kotlin?
 When Google announced the first version of their Android OS, in 2007, they adopted Java as the main language for Android development.
 
