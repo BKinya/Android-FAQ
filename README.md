@@ -11,22 +11,24 @@ Cheers! 🥂
 ### How do I get started in Android Development?
 Android apps are developed using Kotlin, Java and/or C/C++. Android developers use Java or Kotlin to develop Android apps. C/C++ is used to write performance-based and hardware-based features. 
 
-To get started in Android developemnt, you'd learn either Java or Kotlin. Check out [Should I learn Kotlin or Java?](#kotlin-or-java) section to learn more about about the two languages. 
+To get started in Android development, you'd learn either Java or Kotlin. Check out the [Should I learn Kotlin or Java?](#kotlin-or-java) section to learn more about about the two languages. 
 
-Once you've mastered either of the languages, you are ready to learn Android developement. Check out [Build Your First Android App](https://developer.android.com/training/basics/firstapp) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
+Once you've mastered either of the languages, you are ready to learn Android development. Check out the [Build Your First Android App](https://developer.android.com/training/basics/firstapp) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
+
+Check out this book, [Modern Android 13 Development Cookbook](https://www.amazon.com/Modern-Android-Development-Cookbook-applications/dp/1803235578) by Madona S. Wambua. 
 
 ### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
-- Have some well-documented projects on GitHub which have detailed Readmes and at least one useful app on Playstore.
-- Update your Linkedin profile with the projects you've worked on, relevant achievements,  volunteer experience, and any previous experiences like internships. 
+- Have some well-documented projects on GitHub that have detailed Readmes and at least one useful app on Playstore.
+- Update your LinkedIn profile with the projects you've worked on, relevant achievements,  volunteer experience, and any previous experiences like internships. 
 - Keep your CV updated. You'd build one with LinkedIn Resume Builder.
 - Set your LinkedIn status to `Open to Network`. 
 - Directly reach out to recruiters you know or have interacted with. 
 - Check Companies career pages and job boards 
 
 **Tips To increase your chances of landing a Job**
-- Write about the technology you're looking to get a job in. In this case, Android. You'd write about an API you're recently learning about, a bug you solved, etc. 
+- Write about the technology you're looking to get a job in. In this case, Android. You'd write about an API you recently learned about, a bug you solved, etc. 
 - Record a video tutorial showing how to do something in Android. 
-- Contribute to open-source projects. Open-source projects give you an opportunity to learn practically,  practice your skills, and build your confidence.
+- Contribute to open-source projects. Open-source projects allow you to learn practically,  practice your skills, and build your confidence.
 - Build an app while sharing the journey on social media. You'd write an article about the journey or record a video and post it on YouTube.
 - Speak at local meet-ups and conferences.
 
@@ -43,7 +45,7 @@ Check out [Awesome Android Learning Resources](https://github.com/androiddevnote
 
 
 ### How'd I stay updated with the latest trends in the Android development ecosystem?
-- Attending major conferences like Google I/O, Android Dev Summit, Kotlin Conf', Droidcon conferences across the world. Updates and new developemnt are announced during the conferences. 
+- Attending major conferences like Google I/O, Android Dev Summit, Kotlin Conf', and Droidcon conferences across the world. Updates and new developments are announced during the conferences. 
 - Follow top Android Developers on Twitter, and LinkedIn. 
 - Attend developer meetups. Check out [Android254](https://twitter.com/254androiddevs), [Kotlin Kenya](https://twitter.com/kotlinkenya) if in Nairobi, Kenya
 - Listen to Android Podcasts. Some of my favourites are [Android Developers Backstage](http://adbackstage.libsyn.com), [Fragmented Podcast](https://fragmentedpodcast.com)
@@ -78,16 +80,16 @@ Compose projects
 - Check for [Jetpack Compose Newsletters](https://twitter.com/alexstyl/status/1662740985456263168?s=20) here. 
 
 ### Which Architecture should I use in my app?
-There exist several architecture patterns: MVP, MVC, MVVM, MVI, Redux and much more. Architecture patterns are guidelines for building quality apps. They are not cut-on-stone rules. 
+There exist several architecture patterns: MVP, MVC, MVVM, MVI, Redux, and much more. Architecture patterns are guidelines for building quality apps. They are not cut-on-stone rules. 
 
 All best practices can be applied to any architecture pattern. 
 
-Nonetheless, architecture patterns are different: how they are implemented, the learning curve etc.  
+Nonetheless, architecture patterns are different: how they are implemented, the learning curve, etc.  
 
 Before adopting an architecture into your app, make sure you first understand how it works. 
 
 My two cents: 
-For beginners, I'd recommend starting with MVVM. It has a gentle learning curve, adopted in several Android projects and has many resources online. 
+For beginners, I'd recommend starting with MVVM. It has a gentle learning curve, adopted in several Android projects, and has many resources online. 
 
 For Jetpack Compose projects, I'd recommend an MVI kind of approach. This helps a lot with state handling. And you can implement MVI on top of MVVM. 
 
