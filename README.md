@@ -13,7 +13,7 @@ Android apps are developed using Kotlin, Java and/or C/C++. Android developers u
 
 To get started in Android development, you'd learn either Java or Kotlin. Check out the [Should I learn Kotlin or Java?](#kotlin-or-java) section to learn more about about the two languages. 
 
-Once you've mastered either of the languages, you are ready to learn Android development. Check out the [Build Your First Android App](https://developer.android.com/training/basics/firstapp) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
+Once you've mastered either of the languages, you are ready to learn Android development. Check out the [Build Your First Android App](https://developer.android.com/get-started/overview) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
 
 Check out this book, [Modern Android 13 Development Cookbook](https://www.amazon.com/Modern-Android-Development-Cookbook-applications/dp/1803235578) by Madona S. Wambua. 
 
@@ -114,7 +114,7 @@ Some of the benefits that Kotlin brings to Android development include:
  
 With Kotlin as the first-class language for Android development, new Android development tools and content such as Jetpack libraries and training content are designed in Kotlin. For instance, Jetpack Compose, compiler plugin support, and multiplatform projects. 
 
-Therefore, if you're considering Android Development, I'd encourage learning Kotlin. 
+Therefore, if you're considering Android Development, I'd encourage learning Kotlin. Here are links you could learn Kotlin: [Learning Materials | Docs](https://kotlinlang.org/docs/learning-materials-overview.html) and [Learn Kotlin by Doing | Jetbrains](https://www.jetbrains.com/pages/academy/kotlin/)
 
 Also, Kotlin is cross-platform. It can be used in Android development, server-side and Kotlin multi-platform. Check the docs for more: [Kotlin Docs](https://kotlinlang.org)
 
