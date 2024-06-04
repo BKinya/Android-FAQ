@@ -13,9 +13,11 @@ Android apps are developed using Kotlin, Java and/or C/C++. Android developers u
 
 To get started in Android development, you'd learn either Java or Kotlin. Check out the [Should I learn Kotlin or Java?](#kotlin-or-java) section to learn more about about the two languages. 
 
-Once you've mastered either of the languages, you are ready to learn Android development. Check out the [Build Your First Android App](https://developer.android.com/get-started/overview) guide to get started. It includes a quick codelab, a deep dive course and other learning resources. 
+Once you've mastered either of the languages, you are ready to learn Android development. Check out the [Build Your First Android App](https://developer.android.com/get-started/overview) guide to get started. It includes a quick code lab, a deep dive course, and other learning resources. 
 
-Check out this book, [Modern Android 13 Development Cookbook](https://www.amazon.com/Modern-Android-Development-Cookbook-applications/dp/1803235578) by Madona S. Wambua. 
+Check out this book [Mastering Kotlin For Android](https://www.amazon.com/Mastering-Kotlin-Android-14-libraries/dp/1837631719/ref=tmm_pap_swatch_0?link_from_packtlink=yes) by [Harun Wangereka](https://www.linkedin.com/in/harun-wangereka-442b37b9/) to learn more about building robust maintainable Android apps. Here is a detailed review,  [Book review: Mastering Kotlin for Android 14](https://www.linkedin.com/pulse/book-review-mastering-kotlin-android-14-thomas-k%2525C3%2525BCnneth-lbttc/?trackingId=77iIIAFsThjgUC5OmzsTdA%3D%3D) by [Thomas Kuenneth](https://www.linkedin.com/in/thomaskuenneth/) to get you started. 
+
+Also  [Modern Android 13 Development Cookbook](https://www.amazon.com/Modern-Android-Development-Cookbook-applications/dp/1803235578) by [Madona S. Wambua ](https://www.linkedin.com/in/madona-wambua/)
 
 ### <a name = "getting-android-role"></a> How do I get my first Android Developer role?
 - Have some well-documented projects on GitHub that have detailed Readmes and at least one useful app on Playstore.
